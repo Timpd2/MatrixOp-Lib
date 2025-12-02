@@ -1,8 +1,8 @@
-#ifndef VECTOROP_BASIC
-#define VECTOROP_BASIC
+#ifndef VECTOR_OP_H
+#define VECTOR_OP_H
 
-int* vAdd(int *A,int *B,int size); 
-int* vSub(int *A,int *B,int size); 
-int vEW_Mul(int *A,int *B,int size); 
+int** mAdd(int A[3][3], int B[3][3]);
+int** mSub(int A[3][3], int B[3][3]);
+int** mEW_Mul(int A[3][3], int B[3][3]);
 
 #endif
