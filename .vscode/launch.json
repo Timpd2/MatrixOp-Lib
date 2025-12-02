@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/timho/MatrixOp-Lib",
-      "program": "c:/Users/timho/MatrixOp-Lib/build/Debug/outDebug",
+      "cwd": "c:/MatrixOp-Lib",
+      "program": "c:/MatrixOp-Lib/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
